@@ -8,7 +8,7 @@ const Header = (props) =>{
     return (
         <Fragment>
         <header>
-            <h1 class="text-center">{props.titulo}</h1>
+            <h1 className="text-center">{props.titulo}</h1>
         </header>
         </Fragment>
     );
